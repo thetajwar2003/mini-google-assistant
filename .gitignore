@@ -1,0 +1,11 @@
+#calendar
+calendar_creds.json
+calendar_token.pickle
+
+# gmail
+gmail_creds.json
+gmail_token.pickle
+
+# youtube
+youtube_creds.json
+youtube_token.pickle
